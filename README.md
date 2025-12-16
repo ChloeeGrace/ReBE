@@ -15,5 +15,3 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup><sup>*</sup>, Tong Zhang<sup>1<
 <h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔥Updates</h2>
 
 - 🗓️**December 16th, 2025**: This ReBE repository has been created. Further updates will be released soon.
-
-<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🎯Overview & Contribution</h2>
