@@ -11,3 +11,9 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup><sup>*</sup>, Tong Zhang<sup>1<
 <p align="center">
 <sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University, <sup>3</sup> China University of Geosciences
 </p>
+
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🔥Updates</h2>
+
+- 🗓️**December 16th, 2025**: This ReBE repository has been created. Further updates will be released soon.
+
+<h2 style="font-family: 'Times New Roman'; font-size: 15px;">🎯Overview & Contribution</h2>
