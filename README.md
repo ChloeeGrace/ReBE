@@ -9,5 +9,5 @@ Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>2</sup><sup>*</sup>, Tong Zhang<sup>1<
 </p>
 
 <p align="center">
-<sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University
+<sup>1</sup> Beijing Institute of Technology, <sup>2</sup> Peking University, <sup>2</sup> Peking University
 </p>
