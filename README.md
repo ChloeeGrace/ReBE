@@ -5,7 +5,7 @@ ReBE: Energy-Balanced Representation Enhancement for Long-Tailed Remote Sensing 
 </h3>
 
 <p align="center">
-Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>1</sup><sup>*</sup>, Tong Zhang<sup>2/<sup>, Yin Zhuang<sup>1</sup>, He Chen<sup>1</sup>, Liang Chen<sup>1</sup>, Jun Li<sup>3</sup>
+Jianlin Xie<sup>1</sup>, Guanqun Wang<sup>1</sup><sup>*</sup>, Tong Zhang<sup>2</sup>, Yin Zhuang<sup>1</sup>, He Chen<sup>1</sup>, Liang Chen<sup>1</sup>, Jun Li<sup>3</sup>
 </p>
 
 <p align="center">
